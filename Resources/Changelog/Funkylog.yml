@@ -8172,3 +8172,9 @@ Entries:
       message: 'Core: Added missing box of hugs to Theater'
   id: 935
   time: '2026-05-22T20:30:19.0000000+00:00'
+- author: Dusty-Plant
+  changes:
+    - type: Fix
+      message: Hopefully fixed Bramble's spacing issues.
+  id: 936
+  time: '2026-05-28T21:26:29.0000000+00:00'
